@@ -16,6 +16,10 @@ header {
   background-size: cover;
 }
 
+.header-text {
+  gap: 20px;
+}
+
 .logo {
   width: 10%;
 }
