@@ -59,13 +59,14 @@ header h1 {
   font-size: 50px;
   margin-top: 190px;
   font-weight: 500;
+  margin-bottom: 25px;
 }
 
 header p {
   text-align: center;
   color: #fff;
   font-size: 15px;
-  margin-top: -24px;
+  margin-top: 50px;
 }
 .header-text {
   display: flex;
